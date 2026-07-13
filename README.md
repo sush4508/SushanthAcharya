@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sushanth Acharya 👋</h1>
-<h3 align="center">Full-Stack .NET Software Developer | ASP.NET Core • React • Azure</h3>
+<h3 align="center">Full-Stack .NET Software Developer | ASP.NET Core • B • Azure</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+enterprise+web+apps;ASP.NET+Core+%7C+Blazor+%7C+Azure+DevOps;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
@@ -171,7 +171,7 @@ E-commerce style sports store built on Java, JSP/Servlets, and MySQL with JDBC �
   <a href="#" target="https://leetcode.com/u/Sushanth_45/">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
-  <a href="#" target="[_blank](https://www.linkedin.com/in/sushanth45/)">
+  <a href="#" target="https://www.linkedin.com/in/sushanth45/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="#" target="_blank">

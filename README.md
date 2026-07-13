@@ -124,6 +124,58 @@ Full-stack **.NET Software Developer** with 3+ years of experience designing, bu
 | GHS Malalmakki | SSLC (10th) | — 2016 | 97% |
 
 ---
+### 💼 Work Experience
+
+**EG (India A/S)** — *Junior Software Developer 1.2 (Promoted)*
+📅 Apr 2026 – Present
+
+- Built HL7 FHIR ↔ SFM patient data mapping with async background processing in C#/.NET Core, cutting sync time by 55%
+- Automated CI/CD pipelines in Azure DevOps (YAML), reducing deployment time from 2 hrs → 15 mins (85% faster)
+- Integrated clinical lab data (ATC/DFR codes) via Reseptformidleren API for 10+ hospitals, reducing manual entry
+- Improved task scheduling accuracy for 200+ Norwegian healthcare providers with timezone-aware refresh logic
+- Owned SFM module end-to-end; led cross-team collaboration and documentation via Confluence
+
+---
+
+**EG (India A/S)** — *Junior Software Developer 1.1*
+📅 Apr 2024 – Mar 2026
+
+- Built HL7 FHIR R4 integration on .NET Core for a nationwide digital driving license platform — 10,000+ daily API requests
+- Modernized legacy WCF/WPF/.NET Framework services by integrating them with new .NET Core microservices
+- Implemented SMART-on-FHIR OAuth 2.0 + JWT secure data exchange between EHR systems
+- Automated async medical certificate processing using Azure Service Bus & Blob Storage
+- Generated automated health certificate PDFs (iText7), cutting manual processing by 40%
+
+---
+
+### 🚀 Projects
+
+<table>
+<tr>
+<td width="70">
+<img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width="50" />
+</td>
+<td>
+<b>Banking Management Solution</b><br/>
+Full-stack banking app — ASP.NET Core, C#, React, EF Core, SQL Server. Applied Clean Architecture, Repository pattern, and JWT authentication, with automated Azure DevOps CI/CD deployment.
+</td>
+</tr>
+<tr>
+<td width="70">
+<img src="https://cdn-icons-png.flaticon.com/512/2942/2942076.png" width="50" />
+</td>
+<td>
+<b>Sports Cart System</b><br/>
+E-commerce style sports store — Java, JSP/Servlets, JDBC, MySQL. Handles cart management, order flow, and product catalog with a responsive UI (JavaScript, CSS, Bootstrap).
+</td>
+</tr>
+</table>
+Where this slots in: right after the "About Me" section and before "Tech Stack" flows best — recruiters typically scan Experience → Skills → Projects in that order.
+A couple of things worth flagging:
+
+Some of these bullets reference internal/employer-specific systems (SFM, Reseptformidleren, Nokios, InfoDoc) — worth double-checking with your employer's policy on what's okay to publicize, since this becomes a public page.
+I trimmed to 4-5 bullets per role to keep it scannable — let me know if you want the fuller resume-length version instead.
+
 
 ### 💼 Featured Projects
 

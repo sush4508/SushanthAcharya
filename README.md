@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sushanth Acharya 👋</h1>
-<h3 align="center">Full-Stack .NET Software Developer | ASP.NET Core • B • Azure</h3>
+<h3 align="center">Full-Stack .NET Software Developer | ASP.NET Core • Blazor • Azure</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+enterprise+web+apps;ASP.NET+Core+%7C+Blazor+%7C+Azure+DevOps;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
@@ -21,9 +21,6 @@ Full-stack **.NET Software Developer** with 3+ years of experience designing, bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40" />
 </p>
 
 **.NET Platform**
@@ -48,7 +45,10 @@ Full-stack **.NET Software Developer** with 3+ years of experience designing, bu
 </p>
 
 **Front-End**
-<p>
+<p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" height="40" />

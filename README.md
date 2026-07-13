@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-Full-stack **.NET Software Developer** with 3+ years of experience designing, building, and maintaining enterprise web applications across the complete SDLC. Comfortable across both **.NET Framework** and **.NET Core** — ASP.NET (Web API & MVC), Entity Framework Core, WCF/SOAP & RESTful services — with front-end experience in **JavaScript, jQuery, and React**. Strong focus on clean code, unit testing, and CI/CD via **Azure DevOps**, working in a 100% Agile/Scrum environment. Currently a **Junior Software Developer 1.2** at **EG (India A/S)**, promoted from Junior Software Developer 1.1.
+Full-stack **.NET Software Developer** with 3+ years of experience designing, building, and maintaining enterprise web applications across the complete SDLC. Comfortable across both **.NET Framework** and **.NET Core** — ASP.NET (Web API & MVC), Entity Framework Core,& RESTful services — with front-end experience in **JavaScript, jQuery, and React**. Strong focus on clean code, unit testing, and CI/CD via **Azure DevOps**, working in a 100% Agile/Scrum environment. Currently a **Junior Software Developer 1.2** at **EG (India A/S)**, promoted from Junior Software Developer 1.1.
 
 ---
 
@@ -36,7 +36,6 @@ Full-stack **.NET Software Developer** with 3+ years of experience designing, bu
 
 **Web Services & APIs**
 <p>
-  <img src="https://img.shields.io/static/v1?message=SOAP/WCF&color=005571&logoColor=white&label=&style=for-the-badge" title="SOAP / WCF Web Services" height="30" />
   <img src="https://img.shields.io/static/v1?message=RESTful+APIs&color=02569B&logoColor=white&label=&style=for-the-badge" title="RESTful APIs" height="30" />
   <img src="https://img.shields.io/static/v1?message=HL7+FHIR+R4&color=E03C31&logoColor=white&label=&style=for-the-badge" title="HL7 FHIR R4" height="30" />
   <img src="https://img.shields.io/static/v1?message=SMART-on-FHIR&color=E03C31&logoColor=white&label=&style=for-the-badge" title="SMART-on-FHIR" height="30" />
@@ -83,7 +82,7 @@ Full-stack **.NET Software Developer** with 3+ years of experience designing, bu
   <img src="https://img.shields.io/static/v1?message=Repository+Pattern&color=4B5563&label=&style=for-the-badge" title="Repository Pattern" height="30" />
   <img src="https://img.shields.io/static/v1?message=Dependency+Injection&color=4B5563&label=&style=for-the-badge" title="Dependency Injection" height="30" />
   <img src="https://img.shields.io/static/v1?message=SOLID&color=4B5563&label=&style=for-the-badge" title="SOLID Principles" height="30" />
-  <img src="https://img.shields.io/static/v1?message=OOP&color=4B5563&label=&style=for-the-badge" title="OOP" height="30" />
+  <img src="https://img.shields.io/static/v1?message=OOP&color=4B5563&label=&style=for-the-badge" title="OOPS" height="30" />
   <img src="https://img.shields.io/static/v1?message=MVC&color=4B5563&label=&style=for-the-badge" title="MVC" height="30" />
   <img src="https://img.shields.io/static/v1?message=Microservices&color=4B5563&label=&style=for-the-badge" title="Microservices" height="30" />
 </p>

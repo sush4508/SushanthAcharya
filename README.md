@@ -177,31 +177,6 @@ Some of these bullets reference internal/employer-specific systems (SFM, Reseptf
 I trimmed to 4-5 bullets per role to keep it scannable — let me know if you want the fuller resume-length version instead.
 
 
-### 💼 Featured Projects
-
-<table>
-<tr>
-<td width="70">
-<img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width="50" />
-</td>
-<td>
-<b>Banking Management Solution</b><br/>
-Full-stack banking app built with ASP.NET Core, C#, React, and Entity Framework Core; integrated Azure DevOps CI/CD for automated, reliable deployments.
-</td>
-</tr>
-<tr>
-<td width="70">
-<img src="https://cdn-icons-png.flaticon.com/512/2942/2942076.png" width="50" />
-</td>
-<td>
-<b>Sports Cart System</b><br/>
-E-commerce style sports store built on Java, JSP/Servlets, and MySQL with JDBC — handling cart management, orders, and product catalog.
-</td>
-</tr>
-</table>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">

@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack .NET Software Developer | ASP.NET Core • React • Azure</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+enterprise+web+apps;ASP.NET+Core+%7C+React+%7C+Azure+DevOps;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+scalable+enterprise+web+apps;ASP.NET+Core+%7C+Blazor+%7C+Azure+DevOps;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,10 +22,8 @@ Full-stack **.NET Software Developer** with 3+ years of experience designing, bu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40" />
-  <img src="https://img.shields.io/static/v1?message=T-SQL&color=CC2927&logo=microsoftsqlserver&logoColor=white&label=&style=for-the-badge" title="T-SQL" height="30" />
 </p>
 
 **.NET Platform**
@@ -37,8 +35,6 @@ Full-stack **.NET Software Developer** with 3+ years of experience designing, bu
   <img src="https://img.shields.io/static/v1?message=ASP.NET+MVC&color=512BD4&logo=dotnet&logoColor=white&label=&style=for-the-badge" title="ASP.NET MVC" height="30" />
   <img src="https://img.shields.io/static/v1?message=ADO.NET&color=512BD4&logo=dotnet&logoColor=white&label=&style=for-the-badge" title="ADO.NET" height="30" />
   <img src="https://img.shields.io/static/v1?message=Entity+Framework+Core&color=512BD4&logo=dotnet&logoColor=white&label=&style=for-the-badge" title="Entity Framework Core" height="30" />
-  <img src="https://img.shields.io/static/v1?message=WCF&color=512BD4&logo=dotnet&logoColor=white&label=&style=for-the-badge" title="WCF" height="30" />
-  <img src="https://img.shields.io/static/v1?message=WPF&color=512BD4&logo=dotnet&logoColor=white&label=&style=for-the-badge" title="WPF" height="30" />
 </p>
 
 **Web Services & APIs**
@@ -116,9 +112,7 @@ Full-stack **.NET Software Developer** with 3+ years of experience designing, bu
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira / Agile / Scrum" height="40" />
   <img src="https://img.shields.io/static/v1?message=Sprint+Planning&color=0052CC&logo=jira&logoColor=white&label=&style=for-the-badge" title="Sprint Planning" height="30" />
-  <img src="https://img.shields.io/static/v1?message=Daily+Stand-ups&color=0052CC&label=&style=for-the-badge" title="Daily Stand-ups" height="30" />
-  <img src="https://img.shields.io/static/v1?message=Full+SDLC&color=0052CC&label=&style=for-the-badge" title="Full SDLC" height="30" />
-  <img src="https://img.shields.io/static/v1?message=Performance+Tuning&color=0052CC&label=&style=for-the-badge" title="Performance Tuning" height="30" />
+  <img src="https://img.shields.io/static/v1?message=Full+SDLC&color=0052CC&label=&style=for-the-badge" title="Full SDLC" height="30" /
 </p>
 
 ### 🎓 Education
@@ -171,13 +165,13 @@ E-commerce style sports store built on Java, JSP/Servlets, and MySQL with JDBC �
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:acharyasushanth27@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="#" target="_blank">
+  <a href="#" target="https://leetcode.com/u/Sushanth_45/">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
-  <a href="#" target="_blank">
+  <a href="#" target="[_blank](https://www.linkedin.com/in/sushanth45/)">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="#" target="_blank">
